@@ -4,7 +4,7 @@
 # angled separators, sharp heads, slanted tails, 1 line, sparse, many icons, fluent,
 # transient_prompt, instant_prompt=verbose.
 # Type `p10k configure` to generate another config.
-#
+# para el usuario 
 # Config for Powerlevel10k with classic powerline prompt style. Type `p10k configure` to generate
 # your own config based on it.
 #
